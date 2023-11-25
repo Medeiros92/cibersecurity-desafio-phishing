@@ -14,8 +14,8 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.linkedin.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![IMG_1824](https://github.com/Medeiros92/cibersecurity-desafio-phishing/assets/85201128/f89da020-a40e-41b6-b238-46514ab10493)
